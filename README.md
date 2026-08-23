@@ -25,9 +25,15 @@
 
 </div>
 
+<div align="center">
+
+📧 tharunbala.br.03@gmail.com
+
+</div>
+
 <br>
 
-## `> whoami`
+## Who Am I
 
 Mechanical Engineering undergraduate at VIT Vellore with hands-on experience in automotive component manufacturing, industrial automation (PLC/Siemens), and applied research in surface engineering and autonomous systems. I lead small technical teams from problem definition through to characterization, simulation, and — in one case — a patent filing.
 
@@ -42,7 +48,7 @@ OPEN_TO  =  Manufacturing Engineer / Automation Engineer / GET roles
 
 <br>
 
-## `> tech-stack`
+## Tech Stack
 
 **Automation & Controls**
 
@@ -72,7 +78,7 @@ OPEN_TO  =  Manufacturing Engineer / Automation Engineer / GET roles
 
 <br>
 
-## `> domain-expertise`
+## Domain Expertise
 
 | Domain | Focus |
 | :-- | :-- |
@@ -84,7 +90,7 @@ OPEN_TO  =  Manufacturing Engineer / Automation Engineer / GET roles
 
 <br>
 
-## `> featured-projects`
+## Featured Projects
 
 <details open>
 <summary><b>&#9654; Predictive Maintenance & Machine Health Monitoring System</b></summary>
@@ -133,7 +139,7 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <br>
 
-## `> experience-log`
+## Experience
 
 **Industrial Automation & Mechatronics Intern** — MIT Campus, Anna University
 `15 – 25 June 2026`
@@ -153,18 +159,18 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <br>
 
-## `> publications`
+## Publications
 
 - **"Simulation-Based Performance Evaluation of an Autonomous Mobile Robot for Indoor Navigation"** — Tharunbala B R (Lead Author) et al., School of Mechanical Engineering, VIT Vellore *(in preparation)*
 - **"In-Situ Formation of Protective Oxide Scale in Electroless Ni–P/Al Coated Brass Substrate During High-Temperature Exposure"** — Tharunbala B R (Lead Author) *(in preparation)*
 
-## `> patents`
+## Patents
 
 - FeCl&#8323;-based micro-texturing solution for enhanced electroless nickel coating adhesion — **Lead Inventor**; patent drafting in progress
 
 <br>
 
-## `> certifications-and-workshops`
+## Certifications & Workshops
 
 - Industrial Mechatronics using MTAB — Siemens Centre of Excellence, MIT Anna University (A+, 89%)
 - Drone Technologies Workshop — AeroKnotz Drones India Pvt. Ltd. & VIT-CoE in Drone Technologies, Vellore
@@ -172,18 +178,18 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <br>
 
-## `> github-analytics`
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tharunbala-br&show_icons=true&hide_border=true&title_color=4FA8D8&icon_color=FF8C42&text_color=E8EDF2&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=tharunbala-br&show_icons=true&hide_border=true&title_color=4FA8D8&icon_color=FF8C42&text_color=E8EDF2&bg_color=0D1117" />
 <img height="165" src="https://streak-stats.demolab.com/?user=tharunbala-br&hide_border=true&background=0D1117&stroke=4FA8D8&ring=FF8C42&fire=FF8C42&currStreakLabel=4FA8D8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunbala-br&layout=compact&hide_border=true&title_color=4FA8D8&text_color=E8EDF2&bg_color=0D1117" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tharunbala-br&layout=compact&hide_border=true&title_color=4FA8D8&text_color=E8EDF2&bg_color=0D1117" />
 
 </div>
 
@@ -201,7 +207,7 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <br>
 
-## `> contribution-snake`
+## Contribution Snake
 
 <div align="center">
 
@@ -217,7 +223,7 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <br>
 
-## `> cat current-focus.yaml`
+## Current Focus
 
 ```yaml
 learning:
@@ -236,7 +242,7 @@ open_to:
 
 <br>
 
-## `> connect`
+## Connect
 
 <div align="center">
 
