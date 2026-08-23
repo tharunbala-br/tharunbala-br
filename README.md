@@ -177,7 +177,7 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tharunbala-br&show_icons=true&hide_border=true&title_color=4FA8D8&icon_color=FF8C42&text_color=E8EDF2&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunbala-br&hide_border=true&background=0D1117&stroke=4FA8D8&ring=FF8C42&fire=FF8C42&currStreakLabel=4FA8D8" />
+<img height="165" src="https://streak-stats.demolab.com/?user=tharunbala-br&hide_border=true&background=0D1117&stroke=4FA8D8&ring=FF8C42&fire=FF8C42&currStreakLabel=4FA8D8" />
 
 </div>
 
