@@ -102,7 +102,6 @@ Fault-detection system for bearing faults, imbalance, and shaft misalignment usi
 | **Role** | Team Lead (3-member team) |
 | **Stack** | Python &middot; Machine Learning &middot; Arduino &middot; Sensors |
 | **Impact** | Early fault flagging ahead of failure — reduces unplanned downtime |
-| **Repo** | [View](https://github.com/tharunbala-br/ai-machine-health-monitoring) |
 
 </details>
 
@@ -132,7 +131,6 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 | **Role** | Team Lead (3-member team) |
 | **Stack** | Materials Characterization &middot; Metallography &middot; SEM &middot; XRD |
 | **Outcome** | Research paper (lead author, in preparation); patent filed for the FeCl&#8323; micro-texturing solution (lead inventor, drafting in progress) |
-| **Repo** | [View](https://github.com/tharunbala-br/surface-engineering-research) |
 
 </details>
 
