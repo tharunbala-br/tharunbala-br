@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=4FA8D8&text=THARUNBALA%20B%20R&fontSize=38&desc=Mechanical%20Engineering%20%7C%20Manufacturing%20%26%20Automation&descColor=FF8C42&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;color=0D1117&amp;fontColor=4FA8D8&amp;text=THARUNBALA%20B%20R&amp;fontSize=38&amp;desc=Mechanical%20Engineering%20%7C%20Manufacturing%20%26%20Automation&amp;descColor=FF8C42&amp;animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4FA8D8&center=true&vCenter=true&width=820&lines=%24+whoami+-%3E+Mechanical+Engineer+%7C+Manufacturing+%26+Automation;%24+ls+%2Fprojects+-%3E+Predictive-Maintenance+%7C+AMR-Navigation+%7C+Ni-P-Al-Coatings;%24+cat+open-to.txt+-%3E+Automotive+Component+Manufacturing+%2B+PLC+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=4FA8D8&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=%24+whoami+-%3E+Mechanical+Engineer+%7C+Manufacturing+%26+Automation;%24+ls+%2Fprojects+-%3E+Predictive-Maintenance+%7C+AMR-Navigation+%7C+Ni-P-Al-Coatings;%24+cat+open-to.txt+-%3E+Automotive+Component+Manufacturing+%2B+PLC+Automation" />
 
 </div>
 
@@ -182,26 +182,26 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=tharunbala-br&show_icons=true&hide_border=true&title_color=4FA8D8&icon_color=FF8C42&text_color=E8EDF2&bg_color=0D1117" />
-<img height="165" src="https://streak-stats.demolab.com/?user=tharunbala-br&hide_border=true&background=0D1117&stroke=4FA8D8&ring=FF8C42&fire=FF8C42&currStreakLabel=4FA8D8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=tharunbala-br&amp;show_icons=true&amp;hide_border=true&amp;title_color=4FA8D8&amp;icon_color=FF8C42&amp;text_color=E8EDF2&amp;bg_color=0D1117" />
+<img height="165" src="https://streak-stats.demolab.com/?user=tharunbala-br&amp;hide_border=true&amp;background=0D1117&amp;stroke=4FA8D8&amp;ring=FF8C42&amp;fire=FF8C42&amp;currStreakLabel=4FA8D8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tharunbala-br&layout=compact&hide_border=true&title_color=4FA8D8&text_color=E8EDF2&bg_color=0D1117" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tharunbala-br&amp;layout=compact&amp;hide_border=true&amp;title_color=4FA8D8&amp;text_color=E8EDF2&amp;bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tharunbala-br&theme=algolia&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=tharunbala-br&amp;theme=algolia&amp;no-frame=true&amp;column=7&amp;margin-w=8" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunbala-br&bg_color=0D1117&color=4FA8D8&line=4FA8D8&point=FF8C42&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunbala-br&amp;bg_color=0D1117&amp;color=4FA8D8&amp;line=4FA8D8&amp;point=FF8C42&amp;area=true&amp;hide_border=true" />
 
 </div>
 
@@ -251,4 +251,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=4FA8D8&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;color=0D1117&amp;fontColor=4FA8D8&amp;height=100&amp;section=footer" />
