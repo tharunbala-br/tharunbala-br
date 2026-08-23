@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;color=0D1117&amp;fontColor=4FA8D8&amp;text=THARUNBALA%20B%20R&amp;fontSize=38&amp;desc=Mechanical%20Engineering%20%7C%20Manufacturing%20%26%20Automation&amp;descColor=4FA8D8&amp;animation=fadeIn" />
+# THARUNBALA B R
+
+### Mechanical Engineering | Manufacturing & Automation
 
 </div>
 
@@ -248,4 +250,10 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;color=0D1117&amp;fontColor=4FA8D8&amp;height=100&amp;section=footer" />
+---
+
+<div align="center">
+
+*Thanks for stopping by!*
+
+</div>
