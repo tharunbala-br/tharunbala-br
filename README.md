@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;color=0D1117&amp;fontColor=4FA8D8&amp;text=THARUNBALA%20B%20R&amp;fontSize=38&amp;desc=Mechanical%20Engineering%20%7C%20Manufacturing%20%26%20Automation&amp;descColor=FF8C42&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;color=0D1117&amp;fontColor=4FA8D8&amp;text=THARUNBALA%20B%20R&amp;fontSize=38&amp;desc=Mechanical%20Engineering%20%7C%20Manufacturing%20%26%20Automation&amp;descColor=4FA8D8&amp;animation=fadeIn" />
 
 </div>
 
@@ -20,7 +20,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4FA8D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunbala-b-r-255b0028a)
-[![Email](https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunbala.br.03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4FA8D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunbala.br.03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunbala-br)
 
 </div>
@@ -34,6 +34,8 @@
 <br>
 
 ## Who Am I
+
+👋 Hi, I'm Tharun — a Mechanical Engineering undergraduate at VIT Vellore.
 
 Mechanical Engineering undergraduate at VIT Vellore with hands-on experience in automotive component manufacturing, industrial automation (PLC/Siemens), and applied research in surface engineering and autonomous systems. I lead small technical teams from problem definition through to characterization, simulation, and — in one case — a patent filing.
 
@@ -50,43 +52,38 @@ OPEN_TO  =  Manufacturing Engineer / Automation Engineer / GET roles
 
 ## Tech Stack
 
-**Automation & Controls**
+**[ Automation & Controls ]**
 
-![Siemens S7-1200](https://img.shields.io/badge/Siemens_S7--1200-0D1117?style=for-the-badge&labelColor=0D1117&color=4FA8D8)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-0D1117?style=for-the-badge&labelColor=0D1117&color=4FA8D8)
-![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-0D1117?style=for-the-badge&labelColor=0D1117&color=4FA8D8)
-![Process Automation](https://img.shields.io/badge/Process_Automation-0D1117?style=for-the-badge&labelColor=0D1117&color=4FA8D8)
+![Siemens S7-1200](https://img.shields.io/badge/Siemens_S7--1200-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
+![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
+![Process Automation](https://img.shields.io/badge/Process_Automation-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
 
-**CAD & Analysis**
+**[ CAD, Simulation & Programming ]**
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-0D1117?style=for-the-badge&labelColor=0D1117&color=FF8C42)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0D1117?style=for-the-badge&labelColor=0D1117&color=FF8C42)
-![ANSYS](https://img.shields.io/badge/ANSYS-0D1117?style=for-the-badge&labelColor=0D1117&color=FF8C42)
+<img src="https://skillicons.dev/icons?i=autocad,matlab,python,arduino,git,github&amp;theme=dark" />
 
-**Simulation & Programming**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
+![ANSYS](https://img.shields.io/badge/ANSYS-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
+![Webots](https://img.shields.io/badge/Webots-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=4FA8D8)
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4FA8D8&color=0D1117)
-![MATLAB](https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&labelColor=0D1117&color=4FA8D8)
-![Webots](https://img.shields.io/badge/Webots-0D1117?style=for-the-badge&labelColor=0D1117&color=4FA8D8)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=FF8C42&color=0D1117)
+**[ Software ]**
 
-**Software**
-
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=4FA8D8&color=0D1117)
-![Word](https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=4FA8D8&color=0D1117)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-0D1117?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FF8C42&color=0D1117)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=4FA8D8&amp;color=0D1117)
+![Word](https://img.shields.io/badge/Word-0D1117?style=for-the-badge&amp;logo=microsoftword&amp;logoColor=4FA8D8&amp;color=0D1117)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-0D1117?style=for-the-badge&amp;logo=microsoftpowerpoint&amp;logoColor=4FA8D8&amp;color=0D1117)
 
 <br>
 
 ## Domain Expertise
 
-| Domain | Focus |
-| :-- | :-- |
-| **Manufacturing** | Casting, forging, machining, assembly, BOM review, process optimization |
-| **Industrial Automation** | PLC programming (Siemens S7-1200), Ladder Logic, sensor/actuator integration |
-| **Materials Engineering** | Electroless coatings, oxidation resistance, SEM/XRD characterization |
-| **Robotics & Simulation** | Autonomous navigation, path planning, performance benchmarking (Webots) |
-| **Applied ML** | Predictive maintenance, vibration/sensor-based fault detection |
+| Domain | Proficiency | Details |
+| :-- | :-- | :-- |
+| **Manufacturing** | `████████░░ Proficient` | Casting, forging, machining, assembly, BOM review, process optimization |
+| **Industrial Automation** | `████████░░ Proficient` | PLC programming (Siemens S7-1200), Ladder Logic, sensor/actuator integration |
+| **Materials Engineering** | `███████░░░ Intermediate` | Electroless coatings, oxidation resistance, SEM/XRD characterization |
+| **Robotics & Simulation** | `███████░░░ Intermediate` | Autonomous navigation, path planning, performance benchmarking (Webots) |
+| **Applied ML** | `██████░░░░ Intermediate` | Predictive maintenance, vibration/sensor-based fault detection |
 
 <br>
 
@@ -182,8 +179,8 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=tharunbala-br&amp;show_icons=true&amp;hide_border=true&amp;title_color=4FA8D8&amp;icon_color=FF8C42&amp;text_color=E8EDF2&amp;bg_color=0D1117" />
-<img height="165" src="https://streak-stats.demolab.com/?user=tharunbala-br&amp;hide_border=true&amp;background=0D1117&amp;stroke=4FA8D8&amp;ring=FF8C42&amp;fire=FF8C42&amp;currStreakLabel=4FA8D8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=tharunbala-br&amp;show_icons=true&amp;hide_border=true&amp;title_color=4FA8D8&amp;icon_color=4FA8D8&amp;text_color=E8EDF2&amp;bg_color=0D1117" />
+<img height="165" src="https://streak-stats.demolab.com/?user=tharunbala-br&amp;hide_border=true&amp;background=0D1117&amp;stroke=4FA8D8&amp;ring=4FA8D8&amp;fire=4FA8D8&amp;currStreakLabel=4FA8D8" />
 
 </div>
 
@@ -201,7 +198,7 @@ Palladium-free electroless Ni&ndash;P/Al coating process on brass: FeCl&#8323; m
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunbala-br&amp;bg_color=0D1117&amp;color=4FA8D8&amp;line=4FA8D8&amp;point=FF8C42&amp;area=true&amp;hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunbala-br&amp;bg_color=0D1117&amp;color=4FA8D8&amp;line=4FA8D8&amp;point=4FA8D8&amp;area=true&amp;hide_border=true" />
 
 </div>
 
@@ -247,7 +244,7 @@ open_to:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4FA8D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunbala-b-r-255b0028a)
-[![Email](https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunbala.br.03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4FA8D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunbala.br.03@gmail.com)
 
 </div>
 
